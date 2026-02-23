@@ -212,3 +212,122 @@ while true do
         break
     end
 end
+# OUTPUT
+======= LUA RPG GAME =======
+Enter Your Name:
+> Braj
+
+Choose Class: Warrior / Mage / Assassin
+> Warrior
+
+===== MAIN MENU =====
+1. Fight Monster
+2. View Stats
+3. Shop
+4. Fight Boss
+5. Exit Game
+> 2
+
+===== PLAYER STATS =====
+Name: Braj
+Class: Warrior
+Level: 1
+HP: 150
+Attack: 20
+Defense: 10
+EXP: 0
+Gold: 50
+========================
+
+
+===== MAIN MENU =====
+1. Fight Monster
+2. View Stats
+3. Shop
+4. Fight Boss
+5. Exit Game
+> 1
+
+⚔️  BATTLE STARTED AGAINST Goblin ⚔️
+
+Enemy: Goblin
+HP: 80
+
+1. Attack
+2. Special Skill (Double Damage)
+3. Heal (20 HP)
+Choose action:
+> 1
+
+You dealt 14 damage!
+Goblin dealt 5 damage!
+Your HP: 145
+
+1. Attack
+2. Special Skill (Double Damage)
+3. Heal (20 HP)
+Choose action:
+> 2
+
+🔥 Special Attack! You dealt 35 damage!
+Goblin dealt 6 damage!
+Your HP: 139
+
+1. Attack
+2. Special Skill (Double Damage)
+3. Heal (20 HP)
+Choose action:
+> 1
+
+You dealt 18 damage!
+
+🏆 You defeated Goblin
+
+🎉 LEVEL UP! You are now Level 2
+Gold increased by 30
+
+===== MAIN MENU =====
+1. Fight Monster
+2. View Stats
+3. Shop
+4. Fight Boss
+5. Exit Game
+> 2
+
+===== PLAYER STATS =====
+Name: Braj
+Class: Warrior
+Level: 2
+HP: 170
+Attack: 25
+Defense: 13
+EXP: 0
+Gold: 80
+========================
+
+
+===== MAIN MENU =====
+1. Fight Monster
+2. View Stats
+3. Shop
+4. Fight Boss
+5. Exit Game
+> 3
+
+🛒 Welcome to the Shop
+1. Increase Attack (Cost: 40 Gold)
+2. Increase Defense (Cost: 40 Gold)
+3. Exit Shop
+> 1
+
+Attack Increased!
+
+===== MAIN MENU =====
+1. Fight Monster
+2. View Stats
+3. Shop
+4. Fight Boss
+5. Exit Game
+> 5
+
+Thanks for playing!
