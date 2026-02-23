@@ -331,3 +331,4 @@ Attack Increased!
 > 5
 
 Thanks for playing!
+https://i.supaimg.com/b07f367b-02ce-46e8-be00-5734adffe9c9/c74d38f9-3340-492a-b987-3daefb4d9339.png
